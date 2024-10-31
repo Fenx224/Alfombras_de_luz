@@ -93,7 +93,6 @@ namespace Alfombras_de_luz
 			this.Controls.Add(this.LBLtitulo1menu);
 			this.Controls.Add(this.pictureBox1);
 			this.Controls.Add(this.BTNmenusig);
-			this.IsMdiContainer = true;
 			this.Name = "MainForm";
 			this.Text = "Alfombras de luz";
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
