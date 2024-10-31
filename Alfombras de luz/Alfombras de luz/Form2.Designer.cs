@@ -101,7 +101,7 @@ namespace Alfombras_de_luz
 			this.pictureBox1.ErrorImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.ErrorImage")));
 			this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
 			this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
-			this.pictureBox1.Location = new System.Drawing.Point(114, 203);
+			this.pictureBox1.Location = new System.Drawing.Point(114, 204);
 			this.pictureBox1.Name = "pictureBox1";
 			this.pictureBox1.Size = new System.Drawing.Size(147, 96);
 			this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -111,7 +111,7 @@ namespace Alfombras_de_luz
 			// LBLintro2
 			// 
 			this.LBLintro2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.LBLintro2.Location = new System.Drawing.Point(23, 302);
+			this.LBLintro2.Location = new System.Drawing.Point(23, 305);
 			this.LBLintro2.Name = "LBLintro2";
 			this.LBLintro2.Size = new System.Drawing.Size(327, 109);
 			this.LBLintro2.TabIndex = 6;

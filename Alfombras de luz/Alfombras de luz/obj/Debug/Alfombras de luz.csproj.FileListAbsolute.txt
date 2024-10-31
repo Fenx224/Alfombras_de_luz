@@ -1,8 +1,0 @@
-C:\Users\CC1_PC19\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\bin\Debug\Alfombras de luz.exe
-C:\Users\CC1_PC19\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\bin\Debug\Alfombras de luz.pdb
-C:\Users\CC1_PC19\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras de luz.csprojResolveAssemblyReference.cache
-C:\Users\CC1_PC19\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras_de_luz.Form2.resources
-C:\Users\CC1_PC19\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras_de_luz.MainForm.resources
-C:\Users\CC1_PC19\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras de luz.csproj.GenerateResource.Cache
-C:\Users\CC1_PC19\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras de luz.exe
-C:\Users\CC1_PC19\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras de luz.pdb
