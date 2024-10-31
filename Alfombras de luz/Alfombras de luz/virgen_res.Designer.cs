@@ -102,6 +102,7 @@ namespace Alfombras_de_luz
 			this.lblm2.Size = new System.Drawing.Size(146, 162);
 			this.lblm2.TabIndex = 5;
 			this.lblm2.Text = resources.GetString("lblm2.Text");
+			this.lblm2.Click += new System.EventHandler(this.Lblm2Click);
 			// 
 			// virgen_res
 			// 
