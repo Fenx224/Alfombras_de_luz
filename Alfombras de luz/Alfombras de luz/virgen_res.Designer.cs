@@ -37,8 +37,8 @@ namespace Alfombras_de_luz
 		private void InitializeComponent()
 		{
 			System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(virgen_res));
-			this.button1 = new System.Windows.Forms.Button();
-			this.button2 = new System.Windows.Forms.Button();
+			this.BTNnext = new System.Windows.Forms.Button();
+			this.BTNback = new System.Windows.Forms.Button();
 			this.pictureBox1 = new System.Windows.Forms.PictureBox();
 			this.pictureBox2 = new System.Windows.Forms.PictureBox();
 			this.lblm1 = new System.Windows.Forms.Label();
@@ -47,23 +47,23 @@ namespace Alfombras_de_luz
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
 			this.SuspendLayout();
 			// 
-			// button1
+			// BTNnext
 			// 
-			this.button1.Location = new System.Drawing.Point(270, 388);
-			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(48, 30);
-			this.button1.TabIndex = 0;
-			this.button1.Text = "button1";
-			this.button1.UseVisualStyleBackColor = true;
+			this.BTNnext.Location = new System.Drawing.Point(291, 391);
+			this.BTNnext.Name = "BTNnext";
+			this.BTNnext.Size = new System.Drawing.Size(27, 27);
+			this.BTNnext.TabIndex = 0;
+			this.BTNnext.Text = ">";
+			this.BTNnext.UseVisualStyleBackColor = true;
 			// 
-			// button2
+			// BTNback
 			// 
-			this.button2.Location = new System.Drawing.Point(18, 388);
-			this.button2.Name = "button2";
-			this.button2.Size = new System.Drawing.Size(48, 30);
-			this.button2.TabIndex = 1;
-			this.button2.Text = "button2";
-			this.button2.UseVisualStyleBackColor = true;
+			this.BTNback.Location = new System.Drawing.Point(18, 391);
+			this.BTNback.Name = "BTNback";
+			this.BTNback.Size = new System.Drawing.Size(27, 27);
+			this.BTNback.TabIndex = 1;
+			this.BTNback.Text = "<";
+			this.BTNback.UseVisualStyleBackColor = true;
 			// 
 			// pictureBox1
 			// 
@@ -102,7 +102,7 @@ namespace Alfombras_de_luz
 			this.lblm2.Size = new System.Drawing.Size(146, 162);
 			this.lblm2.TabIndex = 5;
 			this.lblm2.Text = resources.GetString("lblm2.Text");
-			this.lblm2.Click += new System.EventHandler(this.Lblm2Click);
+			//this.lblm2.Click += new System.EventHandler(this.Lblm2Click);
 			// 
 			// virgen_res
 			// 
@@ -113,19 +113,19 @@ namespace Alfombras_de_luz
 			this.Controls.Add(this.lblm1);
 			this.Controls.Add(this.pictureBox2);
 			this.Controls.Add(this.pictureBox1);
-			this.Controls.Add(this.button2);
-			this.Controls.Add(this.button1);
+			this.Controls.Add(this.BTNback);
+			this.Controls.Add(this.BTNnext);
 			this.Name = "virgen_res";
 			this.Text = "virgen_res";
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
 			this.ResumeLayout(false);
 		}
-		private System.Windows.Forms.Label lblm2;
-		private System.Windows.Forms.Label lblm1;
+		public System.Windows.Forms.Label lblm2;
+		public System.Windows.Forms.Label lblm1;
 		private System.Windows.Forms.PictureBox pictureBox2;
 		private System.Windows.Forms.PictureBox pictureBox1;
-		private System.Windows.Forms.Button button2;
-		private System.Windows.Forms.Button button1;
+		private System.Windows.Forms.Button BTNback;
+		private System.Windows.Forms.Button BTNnext;
 	}
 }
