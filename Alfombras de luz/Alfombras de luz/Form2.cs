@@ -34,5 +34,7 @@ namespace Alfombras_de_luz
 			Form2 f2 = new Form2();
 			f2.Close();
 		}
+		
+	
 	}
 }
