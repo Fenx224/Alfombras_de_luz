@@ -46,9 +46,10 @@ namespace Alfombras_de_luz
 			// 
 			// BTNmenusig
 			// 
-			this.BTNmenusig.Location = new System.Drawing.Point(389, 476);
+			this.BTNmenusig.Location = new System.Drawing.Point(292, 387);
+			this.BTNmenusig.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
 			this.BTNmenusig.Name = "BTNmenusig";
-			this.BTNmenusig.Size = new System.Drawing.Size(36, 37);
+			this.BTNmenusig.Size = new System.Drawing.Size(27, 30);
 			this.BTNmenusig.TabIndex = 0;
 			this.BTNmenusig.Text = ">";
 			this.BTNmenusig.UseVisualStyleBackColor = true;
@@ -57,9 +58,10 @@ namespace Alfombras_de_luz
 			// pictureBox1
 			// 
 			this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-			this.pictureBox1.Location = new System.Drawing.Point(77, 150);
+			this.pictureBox1.Location = new System.Drawing.Point(58, 122);
+			this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
 			this.pictureBox1.Name = "pictureBox1";
-			this.pictureBox1.Size = new System.Drawing.Size(285, 249);
+			this.pictureBox1.Size = new System.Drawing.Size(214, 202);
 			this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
 			this.pictureBox1.TabIndex = 1;
 			this.pictureBox1.TabStop = false;
@@ -67,33 +69,35 @@ namespace Alfombras_de_luz
 			// LBLtitulo1menu
 			// 
 			this.LBLtitulo1menu.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.LBLtitulo1menu.Location = new System.Drawing.Point(92, 24);
+			this.LBLtitulo1menu.Location = new System.Drawing.Point(69, 20);
+			this.LBLtitulo1menu.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.LBLtitulo1menu.Name = "LBLtitulo1menu";
-			this.LBLtitulo1menu.Size = new System.Drawing.Size(252, 40);
+			this.LBLtitulo1menu.Size = new System.Drawing.Size(189, 32);
 			this.LBLtitulo1menu.TabIndex = 2;
 			this.LBLtitulo1menu.Text = "Alfombras de luz:";
 			// 
 			// Titulo2menu
 			// 
 			this.Titulo2menu.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.Titulo2menu.Location = new System.Drawing.Point(101, 58);
+			this.Titulo2menu.Location = new System.Drawing.Point(76, 47);
+			this.Titulo2menu.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.Titulo2menu.Name = "Titulo2menu";
-			this.Titulo2menu.Size = new System.Drawing.Size(243, 28);
+			this.Titulo2menu.Size = new System.Drawing.Size(182, 23);
 			this.Titulo2menu.TabIndex = 3;
 			this.Titulo2menu.Text = "La magia de Uriangato";
 			this.Titulo2menu.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
 			// 
 			// MainForm
 			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-			this.ClientSize = new System.Drawing.Size(437, 525);
+			this.ClientSize = new System.Drawing.Size(328, 427);
 			this.Controls.Add(this.Titulo2menu);
 			this.Controls.Add(this.LBLtitulo1menu);
 			this.Controls.Add(this.pictureBox1);
 			this.Controls.Add(this.BTNmenusig);
-			this.IsMdiContainer = true;
+			this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
 			this.Name = "MainForm";
 			this.Text = "Alfombras de luz";
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

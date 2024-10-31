@@ -117,7 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="label3.Text" xml:space="preserve">
+  <data name="LBLintro1.Text" xml:space="preserve">
     <value>Difundir en distintas redes sociales el arte a través de una revista digital en el idioma español e inglés que nos muestre la riqueza cultural y tradiciones del municipio, estado y mundo del arte efímero de los tradicionales tapetes de aserrín. Permitiendo a los estudiantes explorar cómo el arte influye en su propia identidad y conexión con su comunidad.
 Objetivos específicos:
 
@@ -4071,7 +4071,7 @@ Objetivos específicos:
         v6kcbZEL+qGTaqTQrrUk7sDEyNP7b5ZsNxuN7/2L/9k=
 </value>
   </data>
-  <data name="label4.Text" xml:space="preserve">
+  <data name="LBLintro2.Text" xml:space="preserve">
     <value>Comprender la influencia del arte en la identidad.
 Estudiar cómo diferentes manifestaciones artísticas han moldeado identidades y formas de pensar, aplicando estos conocimientos para plasmarlos en la revista digital.
 Realizar de manera colaborativa y transversal una revista digital que muestre el arte efímero de la creación de tapetes en el municipio de Uriangato. </value>
