@@ -41,6 +41,7 @@ namespace Alfombras_de_luz
 			this.pictureBox1 = new System.Windows.Forms.PictureBox();
 			this.LBLtitulo1menu = new System.Windows.Forms.Label();
 			this.Titulo2menu = new System.Windows.Forms.Label();
+			this.BTNtraducir = new System.Windows.Forms.Button();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			this.SuspendLayout();
 			// 
@@ -83,12 +84,22 @@ namespace Alfombras_de_luz
 			this.Titulo2menu.Text = "La magia de Uriangato";
 			this.Titulo2menu.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
 			// 
+			// BTNtraducir
+			// 
+			this.BTNtraducir.Location = new System.Drawing.Point(180, 405);
+			this.BTNtraducir.Name = "BTNtraducir";
+			this.BTNtraducir.Size = new System.Drawing.Size(79, 23);
+			this.BTNtraducir.TabIndex = 4;
+			this.BTNtraducir.Text = "Traducir";
+			this.BTNtraducir.UseVisualStyleBackColor = true;
+			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.SystemColors.ControlLightLight;
 			this.ClientSize = new System.Drawing.Size(437, 525);
+			this.Controls.Add(this.BTNtraducir);
 			this.Controls.Add(this.Titulo2menu);
 			this.Controls.Add(this.LBLtitulo1menu);
 			this.Controls.Add(this.pictureBox1);
@@ -98,6 +109,7 @@ namespace Alfombras_de_luz
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
 			this.ResumeLayout(false);
 		}
+		private System.Windows.Forms.Button BTNtraducir;
 		private System.Windows.Forms.Label Titulo2menu;
 		private System.Windows.Forms.Label LBLtitulo1menu;
 		private System.Windows.Forms.PictureBox pictureBox1;
