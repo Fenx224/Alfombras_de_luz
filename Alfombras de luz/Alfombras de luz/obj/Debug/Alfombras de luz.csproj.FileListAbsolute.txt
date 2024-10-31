@@ -1,0 +1,9 @@
+C:\Users\alxax\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\bin\Debug\Alfombras de luz.exe
+C:\Users\alxax\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\bin\Debug\Alfombras de luz.pdb
+C:\Users\alxax\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras de luz.csprojResolveAssemblyReference.cache
+C:\Users\alxax\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras_de_luz.Form2.resources
+C:\Users\alxax\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras_de_luz.MainForm.resources
+C:\Users\alxax\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras de luz.csproj.GenerateResource.Cache
+C:\Users\alxax\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras de luz.exe
+C:\Users\alxax\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras de luz.pdb
+C:\Users\alxax\Alfombras_de_luz\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras_de_luz.page3.resources

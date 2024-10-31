@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: fenx2
- * Date: 10/10/2024
- * Time: 11:55 a. m.
+ * User: alxax
+ * Date: 31/10/2024
+ * Time: 11:16 a. m.
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -13,11 +13,11 @@ using System.Windows.Forms;
 namespace Alfombras_de_luz
 {
 	/// <summary>
-	/// Description of Form2.
+	/// Description of page3.
 	/// </summary>
-	public partial class Form2 : Form
+	public partial class page3 : Form
 	{
-		public Form2()
+		public page3()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
@@ -28,16 +28,9 @@ namespace Alfombras_de_luz
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
-		
-		void BTNDesarrolloBackClick(object sender, EventArgs e)
+		void Button2Click(object sender, EventArgs e)
 		{
-			Form2 f2 = new Form2();
-			f2.Close();
-		}
-		void BTNDesarrolloNextClick(object sender, EventArgs e)
-		{
-			page3 pagina3 = new page3();
-			Show(pagina3);
+	
 		}
 	}
 }

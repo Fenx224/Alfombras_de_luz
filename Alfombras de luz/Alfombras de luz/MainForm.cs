@@ -21,6 +21,7 @@ namespace Alfombras_de_luz
 		Form2 Form2 = new Form2();
 		public MainForm()
 		{
+			
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
 			//

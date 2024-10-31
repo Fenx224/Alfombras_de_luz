@@ -42,9 +42,10 @@ namespace Alfombras_de_luz
 			// 
 			// BTNDesarrolloBack
 			// 
-			this.BTNDesarrolloBack.Location = new System.Drawing.Point(12, 479);
+			this.BTNDesarrolloBack.Location = new System.Drawing.Point(9, 389);
+			this.BTNDesarrolloBack.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
 			this.BTNDesarrolloBack.Name = "BTNDesarrolloBack";
-			this.BTNDesarrolloBack.Size = new System.Drawing.Size(31, 34);
+			this.BTNDesarrolloBack.Size = new System.Drawing.Size(23, 28);
 			this.BTNDesarrolloBack.TabIndex = 0;
 			this.BTNDesarrolloBack.Text = "<";
 			this.BTNDesarrolloBack.UseVisualStyleBackColor = true;
@@ -52,23 +53,27 @@ namespace Alfombras_de_luz
 			// 
 			// BTNDesarrolloNext
 			// 
-			this.BTNDesarrolloNext.Location = new System.Drawing.Point(356, 479);
+			this.BTNDesarrolloNext.Location = new System.Drawing.Point(267, 389);
+			this.BTNDesarrolloNext.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
 			this.BTNDesarrolloNext.Name = "BTNDesarrolloNext";
-			this.BTNDesarrolloNext.Size = new System.Drawing.Size(31, 34);
+			this.BTNDesarrolloNext.Size = new System.Drawing.Size(23, 28);
 			this.BTNDesarrolloNext.TabIndex = 1;
 			this.BTNDesarrolloNext.Text = ">";
 			this.BTNDesarrolloNext.UseVisualStyleBackColor = true;
+			this.BTNDesarrolloNext.Click += new System.EventHandler(this.BTNDesarrolloNextClick);
 			// 
 			// Form2
 			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(399, 525);
+			this.ClientSize = new System.Drawing.Size(299, 427);
 			this.Controls.Add(this.BTNDesarrolloNext);
 			this.Controls.Add(this.BTNDesarrolloBack);
+			this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
 			this.Name = "Form2";
 			this.Text = "Form2";
 			this.ResumeLayout(false);
+
 		}
 		private System.Windows.Forms.Button BTNDesarrolloNext;
 		private System.Windows.Forms.Button BTNDesarrolloBack;
