@@ -1,0 +1,8 @@
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras de luz.csprojResolveAssemblyReference.cache
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras_de_luz.MainForm.resources
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras de luz.csproj.GenerateResource.Cache
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras_de_luz.Form2.resources
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Alfombras de luz\Alfombras de luz\bin\Debug\Alfombras de luz.exe
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Alfombras de luz\Alfombras de luz\bin\Debug\Alfombras de luz.pdb
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras de luz.exe
+C:\Users\fenx2\OneDrive\Documentos\SharpDevelop Projects\Alfombras de luz\Alfombras de luz\obj\Debug\Alfombras de luz.pdb
