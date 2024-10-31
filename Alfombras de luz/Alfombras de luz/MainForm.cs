@@ -33,6 +33,7 @@ namespace Alfombras_de_luz
 		
 		void BTNmenusigClick(object sender, EventArgs e)
 		{
+			
 			Form2.Show();
 		}
 	}
