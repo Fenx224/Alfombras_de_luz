@@ -34,10 +34,5 @@ namespace Alfombras_de_luz
 			Form2 f2 = new Form2();
 			f2.Close();
 		}
-		void BTNDesarrolloNextClick(object sender, EventArgs e)
-		{
-			page3 pagina3 = new page3();
-			Show(pagina3);
-		}
 	}
 }

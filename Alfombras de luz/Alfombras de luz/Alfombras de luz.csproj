@@ -76,6 +76,9 @@
     <EmbeddedResource Include="page3.resx">
       <DependentUpon>page3.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="page4.resx">
+      <DependentUpon>page4.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
