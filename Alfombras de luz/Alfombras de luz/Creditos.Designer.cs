@@ -42,7 +42,6 @@ namespace Alfombras_de_luz
 			this.label3 = new System.Windows.Forms.Label();
 			this.label4 = new System.Windows.Forms.Label();
 			this.label5 = new System.Windows.Forms.Label();
-			this.BTNrein = new System.Windows.Forms.Button();
 			this.BTNbackcreditos = new System.Windows.Forms.Button();
 			this.label6 = new System.Windows.Forms.Label();
 			this.button2 = new System.Windows.Forms.Button();
@@ -97,15 +96,6 @@ namespace Alfombras_de_luz
 			this.label5.TabIndex = 5;
 			this.label5.Text = "Alan Alexis Gonzales Basquez: Introduccion.";
 			// 
-			// BTNrein
-			// 
-			this.BTNrein.Location = new System.Drawing.Point(162, 453);
-			this.BTNrein.Name = "BTNrein";
-			this.BTNrein.Size = new System.Drawing.Size(102, 47);
-			this.BTNrein.TabIndex = 6;
-			this.BTNrein.Text = "Regresar al inicio";
-			this.BTNrein.UseVisualStyleBackColor = true;
-			// 
 			// BTNbackcreditos
 			// 
 			this.BTNbackcreditos.Location = new System.Drawing.Point(13, 459);
@@ -129,7 +119,7 @@ namespace Alfombras_de_luz
 			// 
 			this.button2.Location = new System.Drawing.Point(174, 348);
 			this.button2.Name = "button2";
-			this.button2.Size = new System.Drawing.Size(75, 30);
+			this.button2.Size = new System.Drawing.Size(82, 30);
 			this.button2.TabIndex = 9;
 			this.button2.Text = "Encuesta";
 			this.button2.UseVisualStyleBackColor = true;
@@ -142,7 +132,6 @@ namespace Alfombras_de_luz
 			this.Controls.Add(this.button2);
 			this.Controls.Add(this.label6);
 			this.Controls.Add(this.BTNbackcreditos);
-			this.Controls.Add(this.BTNrein);
 			this.Controls.Add(this.label5);
 			this.Controls.Add(this.label4);
 			this.Controls.Add(this.label3);
@@ -156,7 +145,6 @@ namespace Alfombras_de_luz
 		private System.Windows.Forms.Button button2;
 		private System.Windows.Forms.Label label6;
 		private System.Windows.Forms.Button BTNbackcreditos;
-		private System.Windows.Forms.Button BTNrein;
 		private System.Windows.Forms.Label label5;
 		private System.Windows.Forms.Label label4;
 		private System.Windows.Forms.Label label3;
