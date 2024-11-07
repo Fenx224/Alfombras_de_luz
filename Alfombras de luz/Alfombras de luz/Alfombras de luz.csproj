@@ -63,7 +63,9 @@
     <Compile Include="pag7.Designer.cs">
       <DependentUpon>pag7.cs</DependentUpon>
     </Compile>
-    <Compile Include="pagina6.cs" />
+    <Compile Include="pagina6.cs">
+      <DependentUpon>Program.cs</DependentUpon>
+    </Compile>
     <Compile Include="pagina6.Designer.cs">
       <DependentUpon>pagina6.cs</DependentUpon>
     </Compile>
@@ -83,6 +85,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pag7.resx">
+      <DependentUpon>pag7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pagina6.resx">
+      <DependentUpon>pagina6.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="virgen_res.resx">
       <DependentUpon>virgen_res.cs</DependentUpon>
