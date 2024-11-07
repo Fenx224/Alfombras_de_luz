@@ -28,5 +28,10 @@ namespace Alfombras_de_luz
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
+		void Button2Click(object sender, EventArgs e)
+		{
+			
+		}
 	}
 }
